@@ -56,10 +56,11 @@ endmodule
 */
 
 **RTL LOGIC FOR FLIPFLOPS**
+<img width="1052" height="617" alt="oo" src="https://github.com/user-attachments/assets/fc942786-2896-4245-87ca-9c8bbbd640a5" />
 
-<img width="1920" height="1080" alt="Screenshot (39)" src="https://github.com/user-attachments/assets/d5e23cf0-cfa9-4441-bb3a-967d4aea75cd" />
 
 **TIMING DIGRAMS FOR FLIP FLOPS**
-<img width="1920" height="1080" alt="Screenshot (40)" src="https://github.com/user-attachments/assets/8ca8bfb3-f34a-4822-958f-1c7702bd3af8" />
+<img width="1919" height="1137" alt="o" src="https://github.com/user-attachments/assets/cd8525ec-8529-4f63-a139-f769dbd538c5" />
 
 **RESULTS**
+THUS the jk flipflpo is implement and verified
